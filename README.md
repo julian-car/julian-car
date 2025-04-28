@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm julian cardenas !</h2>
+<h1 align="left">Hi, I'm julian cardenas !</h1>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="170" src="https://media1.tenor.com/m/pDcT0vYOdckAAAAC/coding-3lines.gif"  />
+<img align="right" height="170" src="https://media1.tenor.com/m/BhgTMrDJeFsAAAAC/smol-swol.gif"  />
 
 ###
 
